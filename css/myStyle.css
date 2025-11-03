@@ -2,7 +2,11 @@
 
 .title{
     text-align: center;
-    color: midnightblue;
+    color:rgb(69, 48, 30);
+}
+
+.navbar_bg{
+    background-color: rgba(142, 134, 126, 0.509); 
 }
 
 .momo-trust {
